@@ -89,11 +89,13 @@ Características:
 
 Vantagens:
 
+- Baixo overhead de processamento;
 - Suporta serviços de dados, voz e vídeo;
 - Possibilita a integração de redes e sistemas de comunicação.
 
 Desvantagens:
 
+- Alto overhead de cabeçalho;
 - Não opera de maneira otimizada para nenhum tipo de serviço específico;
 - Requer infraestrutura de comunicação com poucos erros e altas taxas de transmissão.
 
